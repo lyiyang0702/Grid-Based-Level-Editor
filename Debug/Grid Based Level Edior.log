@@ -1,0 +1,135 @@
+﻿  main.cpp
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\main.cpp(131,24): warning C4018: '<': signed/unsigned mismatch
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\main.cpp(134,43): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\main.cpp(136,34): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\main.cpp(149,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\main.cpp(149,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\main.cpp(157,24): warning C4018: '<': signed/unsigned mismatch
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\main.cpp(173,24): warning C4018: '<': signed/unsigned mismatch
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\main.cpp(181,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\main.cpp(181,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Grid.cpp
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(57,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(57,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(58,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(58,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(63,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(63,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(64,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(64,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(78,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(78,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(79,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(79,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(92,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Grid.cpp(92,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Tilemap.cpp
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Tilemap.cpp(10,23): warning C4018: '<': signed/unsigned mismatch
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Tilemap.cpp(11,27): warning C4018: '<': signed/unsigned mismatch
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Tilemap.cpp(13,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Tilemap.cpp(13,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Tilemap.cpp(14,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Tilemap.cpp(14,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Tilemap.cpp(25,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Grid Based Level Edior.vcxproj -> D:\Game 200\Grid-Based Level Editor\Grid Based Level Edior\Debug\Grid Based Level Edior.exe
